@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C++, Python, SQL, KOtlin, Swift, Flutter
 - 🌱 I’m currently learning Python, Kotlin
 - 💞️ I’m looking to collaborate on evrything ig
-- 📫 How to reach me linkedin or via mail
+- 📫 Reach me linkedin or via mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a designer and 3D enthusiast as well 😅
 
