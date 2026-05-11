@@ -58,8 +58,6 @@ I’m a multidisciplinary **Creative Technologist** combining design, developmen
 - ⚙️ ERP, IT systems & digital infrastructure
 - 📱 Social media management & content systems
 
-> I like building things that are visually strong, technically useful, and intelligently automated.
-
 ---
 
 <div align="center">
@@ -212,10 +210,7 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
         <li>Automation for Daily Operations</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧩 My Digital Toolkit</h3>
-      <p>Creative tools, AI platforms, development stacks, game engines, and system workflows.</p>
-    </td>
+    
   </tr>
 </table>
 
