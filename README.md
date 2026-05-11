@@ -155,6 +155,73 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
 
 ---
 
+## 🚀 Project Areas
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Projects</h3>
+      <ul>
+        <li>AI Agents</li>
+        <li>AI Automation Workflows</li>
+        <li>Prompt-Based Content Systems</li>
+        <li>AI-Assisted Coding</li>
+        <li>AI Productivity Pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Creative Projects</h3>
+      <ul>
+        <li>Brand Identity Systems</li>
+        <li>Motion Graphics Campaigns</li>
+        <li>Social Media Design Packs</li>
+        <li>Promotional Videos</li>
+        <li>3D Visualizations</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web Projects</h3>
+      <ul>
+        <li>WordPress Websites</li>
+        <li>Wix Websites</li>
+        <li>Elementor Landing Pages</li>
+        <li>E-commerce UI/UX</li>
+        <li>ERP Interface Enhancements</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Game Projects</h3>
+      <ul>
+        <li>Unity Game Prototypes</li>
+        <li>Game UI Concepts</li>
+        <li>Level Design Experiments</li>
+        <li>Interactive 3D Experiences</li>
+        <li>Gameplay Mechanics</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>IT Projects</h3>
+      <ul>
+        <li>Google Workspace Setup</li>
+        <li>ERP Workflow Improvements</li>
+        <li>Website Infrastructure</li>
+        <li>Database Management</li>
+        <li>Automation for Daily Operations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 My Digital Toolkit</h3>
+      <p>Creative tools, AI platforms, development stacks, game engines, and system workflows.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📍 Current Location
 
 <div align="center">
