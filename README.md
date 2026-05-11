@@ -38,9 +38,7 @@
 </p>
 
 ---
-
 <div align="center">
-
 ## 💫 About Me
 
 ### ⚡ Building the future through Creativity + Systems + AI
