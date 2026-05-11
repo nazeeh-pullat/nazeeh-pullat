@@ -9,7 +9,7 @@
 
 ### 🚀 Creativity • Technology • AI • Systems • Game Dev • Digital Innovation
 
-<img src="https://komarev.com/ghpvc/?username=nazeeh-pullat&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nazeeh-pullat&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=2300" alt="Profile Views" />
 
 </div>
 
