@@ -75,7 +75,7 @@ IT & Systems:
   - Database Management
 
 🤖 AI Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=ai" height="45"/> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-00C2CB?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-00C2CB?style=for-the-badge"/> </p>
 🎮 Game Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=unity,cs,blender" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Game_Design-FF4C29?style=for-the-badge"/> <img src="https://img.shields.io/badge/Level_Design-00C2CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Interactive_Experiences-7952B3?style=for-the-badge"/> </p>
 🎯 Game Dev Skills
@@ -172,18 +172,13 @@ IT Projects:
   - Website Infrastructure
   - Database Management
   - Automation for Daily Operations
+<br>
 🧩 My Digital Toolkit
 <p align="center"> <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,unity,cs,html,css,js,react,python,php,mysql,wordpress" /> </p> <p align="center"> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/> <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/> <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> </p>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/> </div>
-🌎 Connect With Me
-<div align="center">
+
 
 </div>
 <div align="center">
 ⚡ Building the future through Creativity + Systems + AI + Game Development
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/> </div>
 
-Replace YOURUSERNAME, YOUR_LINKEDIN, and YOUR_PORTFOLIO before uploading it to GitHub.
