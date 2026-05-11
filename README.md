@@ -30,49 +30,184 @@ I work across:
 
 > I like building things that are visually strong, technically useful, and intelligently automated.
 
----
+<!-- WHAT I DO SECTION -->
+<section class="what-i-do">
+  <div class="container">
+    
+    <h2 class="section-title">
+      🧠 WHAT I DO
+    </h2>
 
-## 🧠 What I Do
+    <p class="section-subtitle">
+      A fusion of creativity, technology, AI, and systems to build impactful digital experiences.
+    </p>
 
-Creative Technology:
-  - Branding & Visual Identity
-  - Motion Graphics
-  - Video Editing
-  - Social Media Content
-  - UI/UX Design
-  - 2D & 3D Visual Design
+    <div class="grid">
 
-AI & Automation:
-  - AI Prompt Engineering
-  - AI Agents
-  - Workflow Automation
-  - AI-Assisted Development
-  - Vibe Coding
-  - AI Content Systems
+      <!-- Creative -->
+      <div class="card pink">
+        <h3>🎨 Creative Technology</h3>
+        <div class="tags">
+          <span>Branding</span>
+          <span>Motion Graphics</span>
+          <span>Video Editing</span>
+          <span>Social Media</span>
+          <span>UI/UX Design</span>
+          <span>2D & 3D Design</span>
+        </div>
+      </div>
 
-Web & Digital:
-  - Website Development
-  - WordPress / Wix / Elementor
-  - Landing Pages
-  - E-commerce UI
-  - ERP UI Optimization
-  - Digital Platforms
+      <!-- AI -->
+      <div class="card cyan">
+        <h3>🤖 AI & Automation</h3>
+        <div class="tags">
+          <span>Prompt Engineering</span>
+          <span>AI Agents</span>
+          <span>Workflow Automation</span>
+          <span>AI Development</span>
+          <span>Vibe Coding</span>
+          <span>AI Content Systems</span>
+        </div>
+      </div>
 
-Game Development:
-  - Unity Development
-  - Gameplay Systems
-  - Game UI
-  - Level Design
-  - 3D Assets
-  - Interactive Experiences
+      <!-- Web -->
+      <div class="card blue">
+        <h3>🌐 Web & Digital</h3>
+        <div class="tags">
+          <span>Web Development</span>
+          <span>WordPress</span>
+          <span>Wix</span>
+          <span>Elementor</span>
+          <span>E-commerce UI</span>
+          <span>ERP UI</span>
+        </div>
+      </div>
 
-IT & Systems:
-  - ICT Operations
-  - Google Workspace Admin
-  - Technical Support
-  - Networking
-  - Security Systems
-  - Database Management
+      <!-- Game Dev -->
+      <div class="card green">
+        <h3>🎮 Game Development</h3>
+        <div class="tags">
+          <span>Unity</span>
+          <span>Gameplay Systems</span>
+          <span>Game UI</span>
+          <span>Level Design</span>
+          <span>3D Assets</span>
+          <span>Interactive Systems</span>
+        </div>
+      </div>
+
+      <!-- IT -->
+      <div class="card yellow">
+        <h3>⚙️ IT & Systems</h3>
+        <div class="tags">
+          <span>ICT Operations</span>
+          <span>Google Workspace</span>
+          <span>Networking</span>
+          <span>Security Systems</span>
+          <span>Database Management</span>
+          <span>Technical Support</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+
+body{
+  background:#050816;
+  font-family:'Poppins',sans-serif;
+}
+
+.what-i-do{
+  padding:60px 20px;
+  color:white;
+}
+
+.container{
+  max-width:1200px;
+  margin:auto;
+}
+
+.section-title{
+  text-align:center;
+  font-size:48px;
+  font-weight:800;
+  margin-bottom:10px;
+  letter-spacing:2px;
+}
+
+.section-subtitle{
+  text-align:center;
+  color:#9ca3af;
+  margin-bottom:50px;
+  font-size:18px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:25px;
+}
+
+.card{
+  background:rgba(15,23,42,0.8);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:22px;
+  padding:25px;
+  backdrop-filter:blur(10px);
+  transition:0.3s ease;
+  box-shadow:0 0 25px rgba(0,0,0,0.4);
+}
+
+.card:hover{
+  transform:translateY(-6px);
+}
+
+.card h3{
+  margin-bottom:20px;
+  font-size:24px;
+  font-weight:700;
+}
+
+.tags{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+}
+
+.tags span{
+  padding:10px 14px;
+  border-radius:999px;
+  font-size:14px;
+  font-weight:500;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.08);
+}
+
+.pink{
+  border-top:3px solid #ff4ecd;
+}
+
+.cyan{
+  border-top:3px solid #00e5ff;
+}
+
+.blue{
+  border-top:3px solid #3b82f6;
+}
+
+.green{
+  border-top:3px solid #8bff4d;
+}
+
+.yellow{
+  border-top:3px solid #ffcc00;
+}
+
+</style>
+
 
 🤖 AI Tools & Platforms
 <p align="center"> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-00C2CB?style=for-the-badge"/> </p>
