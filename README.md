@@ -32,41 +32,423 @@ I work across:
 
 ---
 
-## 🧠 What I Do
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>What I Do – Nazeeh Fazal</title>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-A fusion of creativity, technology, AI, and systems to build impactful digital experiences.
+  body {
+    background: #080c1a;
+    font-family: 'Poppins', sans-serif;
+    color: #e2e8f0;
+    min-height: 100vh;
+    padding: 60px 24px 80px;
+  }
 
----
+  .wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+  }
 
-### 🎨 Creative Technology
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    margin-bottom: 56px;
+  }
 
-`Branding` `Motion Graphics` `Video Editing` `Social Media` `UI/UX Design` `2D & 3D Design`
+  .header h1 {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: clamp(38px, 6vw, 64px);
+    font-weight: 700;
+    letter-spacing: 4px;
+    color: #ffffff;
+    line-height: 1;
+    margin-bottom: 16px;
+  }
 
----
+  .brain-icon {
+    font-size: clamp(36px, 5vw, 56px);
+    margin-right: 10px;
+    vertical-align: middle;
+  }
 
-### 🤖 AI & Automation
+  .header p {
+    font-size: clamp(14px, 2vw, 18px);
+    color: #94a3b8;
+    max-width: 540px;
+    margin: 0 auto 20px;
+    line-height: 1.6;
+  }
 
-`Prompt Engineering` `AI Agents` `Workflow Automation` `AI Development` `Vibe Coding` `AI Content Systems`
+  .divider {
+    width: 60px;
+    height: 3px;
+    margin: 0 auto;
+    background: linear-gradient(90deg, #ff4ecd, #00e5ff);
+    border-radius: 2px;
+  }
 
----
+  /* ── Grid ── */
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
 
-### 🌐 Web & Digital
+  .grid-single {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
 
-`Web Development` `WordPress` `Wix` `Elementor` `E-commerce UI` `ERP UI`
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+  }
 
----
+  /* ── Card ── */
+  .card {
+    background: rgba(10, 16, 34, 0.85);
+    border: 1px solid rgba(255,255,255,0.07);
+    border-radius: 18px;
+    padding: 28px 24px 32px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
 
-### 🎮 Game Development
+  .card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 18px;
+    padding: 1px;
+    background: var(--card-glow);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0.35;
+    pointer-events: none;
+  }
 
-`Unity` `Gameplay Systems` `Game UI` `Level Design` `3D Assets` `Interactive Systems`
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 48px rgba(0,0,0,0.5);
+  }
 
----
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
 
-### ⚙️ IT & Systems
+  .icon-circle {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    flex-shrink: 0;
+    background: var(--icon-bg);
+  }
 
-`ICT Operations` `Google Workspace` `Networking` `Security Systems` `Database Management` `Technical Support`
+  .card-title {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: var(--accent);
+    text-transform: uppercase;
+    line-height: 1.2;
+  }
 
----
+  .title-line {
+    width: 36px;
+    height: 2px;
+    background: var(--accent);
+    border-radius: 2px;
+    margin-top: 6px;
+    opacity: 0.7;
+  }
+
+  /* ── Skill Grid ── */
+  .skills {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px 10px;
+  }
+
+  .skills.wide {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .skill-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+  }
+
+  .skill-icon {
+    width: 54px;
+    height: 54px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: rgba(255,255,255,0.04);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: var(--accent);
+  }
+
+  .skill-label {
+    font-size: 12px;
+    color: #94a3b8;
+    line-height: 1.3;
+  }
+
+  /* ── Color themes ── */
+  .pink  { --accent: #ff4ecd; --icon-bg: rgba(255,78,205,0.15); --card-glow: linear-gradient(135deg, #ff4ecd, transparent); }
+  .cyan  { --accent: #00e5ff; --icon-bg: rgba(0,229,255,0.12);  --card-glow: linear-gradient(135deg, #00e5ff, transparent); }
+  .blue  { --accent: #3b82f6; --icon-bg: rgba(59,130,246,0.15); --card-glow: linear-gradient(135deg, #3b82f6, transparent); }
+  .green { --accent: #7fff4e; --icon-bg: rgba(127,255,78,0.12); --card-glow: linear-gradient(135deg, #7fff4e, transparent); }
+  .gold  { --accent: #ffd700; --icon-bg: rgba(255,215,0,0.12);  --card-glow: linear-gradient(135deg, #ffd700, transparent); }
+
+  /* ── Separator between rows ── */
+  .row-gap { margin-bottom: 20px; }
+
+  /* ── SVG icons (inline lightweight) ── */
+  svg.si { width: 26px; height: 26px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- Header -->
+  <div class="header">
+    <h1><span class="brain-icon">🧠</span> WHAT I DO</h1>
+    <p>A fusion of creativity, technology, and systems to build<br/>digital experiences that make an impact.</p>
+    <div class="divider"></div>
+  </div>
+
+  <!-- Row 1: Creative + AI -->
+  <div class="grid row-gap">
+
+    <!-- Creative Technology -->
+    <div class="card pink">
+      <div class="card-header">
+        <div class="icon-circle">
+          <svg class="si" viewBox="0 0 24 24"><path d="M12 19l7-7-3.5-3.5M5 19l7-7M9.5 5.5L13 9"/><circle cx="5.5" cy="18.5" r="1.5"/><circle cx="18.5" cy="5.5" r="1.5"/></svg>
+        </div>
+        <div>
+          <div class="card-title">Creative Technology</div>
+          <div class="title-line"></div>
+        </div>
+      </div>
+      <div class="skills">
+        <div class="skill-item">
+          <div class="skill-icon">🎨</div>
+          <span class="skill-label">Branding &amp; Visual Identity</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🎞️</div>
+          <span class="skill-label">Motion Graphics</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🎬</div>
+          <span class="skill-label">Video Editing</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">📱</div>
+          <span class="skill-label">Social Media Content</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🖥️</div>
+          <span class="skill-label">UI/UX Design</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🧊</div>
+          <span class="skill-label">2D &amp; 3D Visual Design</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- AI & Automation -->
+    <div class="card cyan">
+      <div class="card-header">
+        <div class="icon-circle">
+          <svg class="si" viewBox="0 0 24 24"><rect x="3" y="8" width="18" height="10" rx="2"/><path d="M8 8V6a4 4 0 018 0v2"/><circle cx="12" cy="13" r="2"/><path d="M12 11v-1M12 15v1M9.17 11.17l-.7-.7M15.53 16.53l-.7-.7M8 13H7M17 13h-1M9.17 14.83l-.7.7M15.53 11.47l-.7.7"/></svg>
+        </div>
+        <div>
+          <div class="card-title">AI &amp; Automation</div>
+          <div class="title-line"></div>
+        </div>
+      </div>
+      <div class="skills">
+        <div class="skill-item">
+          <div class="skill-icon">⌨️</div>
+          <span class="skill-label">AI Prompt Engineering</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🤖</div>
+          <span class="skill-label">AI Agents</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">⚡</div>
+          <span class="skill-label">Workflow Automation</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">💻</div>
+          <span class="skill-label">AI-Assisted Development</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🎵</div>
+          <span class="skill-label">Vibe Coding</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🧠</div>
+          <span class="skill-label">AI Content Systems</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Row 2: Web + Game -->
+  <div class="grid row-gap">
+
+    <!-- Web & Digital -->
+    <div class="card blue">
+      <div class="card-header">
+        <div class="icon-circle">
+          <svg class="si" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3.6 9h16.8M3.6 15h16.8M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/></svg>
+        </div>
+        <div>
+          <div class="card-title">Web &amp; Digital</div>
+          <div class="title-line"></div>
+        </div>
+      </div>
+      <div class="skills">
+        <div class="skill-item">
+          <div class="skill-icon">🖥️</div>
+          <span class="skill-label">Website Development</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🅆</div>
+          <span class="skill-label">WordPress / Wix / Elementor</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">📄</div>
+          <span class="skill-label">Landing Pages</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🛒</div>
+          <span class="skill-label">E-commerce UI</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">📊</div>
+          <span class="skill-label">ERP UI Optimization</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🔗</div>
+          <span class="skill-label">Digital Platforms</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Game Development -->
+    <div class="card green">
+      <div class="card-header">
+        <div class="icon-circle">
+          <svg class="si" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="13" rx="3"/><path d="M8 13h3m-1.5-1.5v3M17 13h.01M15 13h.01"/></svg>
+        </div>
+        <div>
+          <div class="card-title">Game Development</div>
+          <div class="title-line"></div>
+        </div>
+      </div>
+      <div class="skills">
+        <div class="skill-item">
+          <div class="skill-icon">🎮</div>
+          <span class="skill-label">Unity Development</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">⚔️</div>
+          <span class="skill-label">Gameplay Systems</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🖼️</div>
+          <span class="skill-label">Game UI</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🗺️</div>
+          <span class="skill-label">Level Design</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🧊</div>
+          <span class="skill-label">3D Assets</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🕹️</div>
+          <span class="skill-label">Interactive Experiences</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Row 3: IT & Systems (full width) -->
+  <div class="grid-single">
+    <div class="card gold">
+      <div class="card-header">
+        <div class="icon-circle">
+          <svg class="si" viewBox="0 0 24 24"><path d="M12 15a3 3 0 100-6 3 3 0 000 6z"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </div>
+        <div>
+          <div class="card-title">IT &amp; Systems</div>
+          <div class="title-line"></div>
+        </div>
+      </div>
+      <div class="skills wide">
+        <div class="skill-item">
+          <div class="skill-icon">🖥️</div>
+          <span class="skill-label">ICT Operations</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🅶</div>
+          <span class="skill-label">Google Workspace Admin</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🎧</div>
+          <span class="skill-label">Technical Support</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🌐</div>
+          <span class="skill-label">Networking</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🔒</div>
+          <span class="skill-label">Security Systems</span>
+        </div>
+        <div class="skill-item">
+          <div class="skill-icon">🗄️</div>
+          <span class="skill-label">Database Management</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
 
 ## 🤖 AI Tools & Platforms
 
