@@ -40,7 +40,7 @@
 
 <div align="center">
 
-### ⚡ Building the future through Creativity + Systems + AI + Game Development
+### ⚡ Building the future through Creativity + Systems + AI 
 
 ## 💫 About Me
 
