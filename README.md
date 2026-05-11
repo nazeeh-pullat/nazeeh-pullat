@@ -211,7 +211,8 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
       </ul>
     </td>
     <td width="50%" valign="top">
-     
+      <h3></h3>
+      <p></p>
     </td>
   </tr>
 </table>
