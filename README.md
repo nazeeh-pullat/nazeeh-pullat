@@ -155,6 +155,29 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
 
 ---
 
+## 📍 Current Location
+
+<div align="center">
+
+🌍 **Riyadh, Kingdom of Saudi Arabia**
+
+<img src="https://img.shields.io/badge/Based_in-Riyadh_Saudi_Arabia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
+
+---
+
+## 🏷️ Tags & Technologies
+
+<div align="center">
+
+`Creative Technologist` • `AI Specialist` • `AI Automation` • `AI Agents` • `Prompt Engineering` • `Vibe Coding` • `Game Developer` • `Unity Developer` • `Motion Designer` • `Graphic Designer` • `UI UX Designer` • `Brand Visualizer` • `Web Developer` • `WordPress Developer` • `Wix Developer` • `Elementor Expert` • `ERP Specialist` • `Odoo ERP` • `ICT Specialist` • `IT Engineer` • `Digital Innovation` • `Creative Developer` • `AI Content Creation` • `Social Media Management` • `Digital Marketing` • `Motion Graphics` • `Video Editing` • `3D Design` • `Blender 3D` • `Interactive Media` • `Systems Engineer` • `Automation Workflows` • `Google Workspace Admin` • `Frontend Developer` • `ReactJS` • `JavaScript Developer` • `ASP.NET Developer` • `Python Developer` • `Creative Coding` • `UI Systems` • `E-commerce UI` • `Digital Branding` • `Creative AI` • `Full Stack Creative` • `Tech Artist` • `Creative Engineering`
+
+</div>
+
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer" />
