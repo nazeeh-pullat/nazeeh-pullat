@@ -154,65 +154,74 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
 
 ## 🚀 Project Areas
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>AI Projects</h3>
-      <ul>
-        <li>AI Agents</li>
-        <li>AI Automation Workflows</li>
-        <li>Prompt-Based Content Systems</li>
-        <li>AI-Assisted Coding</li>
-        <li>AI Productivity Pipelines</li>
-      </ul>
+    <td width="33.33%" valign="top">
+
+### 🤖 AI Projects
+- AI Agents
+- AI Automation Workflows
+- Prompt-Based Content Systems
+- AI-Assisted Coding
+- AI Productivity Pipelines
+
     </td>
-    <td width="50%" valign="top">
-      <h3>Creative Projects</h3>
-      <ul>
-        <li>Brand Identity Systems</li>
-        <li>Motion Graphics Campaigns</li>
-        <li>Social Media Design Packs</li>
-        <li>Promotional Videos</li>
-        <li>3D Visualizations</li>
-      </ul>
+
+    <td width="33.33%" valign="top">
+
+### 🎨 Creative Projects
+- Brand Identity Systems
+- Motion Graphics Campaigns
+- Social Media Design Packs
+- Promotional Videos
+- 3D Visualizations
+
+    </td>
+
+    <td width="33.33%" valign="top">
+
+### 🌐 Web Projects
+- WordPress Websites
+- Wix Websites
+- Elementor Landing Pages
+- E-commerce UI/UX
+- ERP Interface Enhancements
+
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3>Web Projects</h3>
-      <ul>
-        <li>WordPress Websites</li>
-        <li>Wix Websites</li>
-        <li>Elementor Landing Pages</li>
-        <li>E-commerce UI/UX</li>
-        <li>ERP Interface Enhancements</li>
-      </ul>
+    <td width="33.33%" valign="top">
+
+### 🎮 Game Projects
+- Unity Game Prototypes
+- Game UI Concepts
+- Level Design Experiments
+- Interactive 3D Experiences
+- Gameplay Mechanics
+
     </td>
-    <td width="50%" valign="top">
-      <h3>Game Projects</h3>
-      <ul>
-        <li>Unity Game Prototypes</li>
-        <li>Game UI Concepts</li>
-        <li>Level Design Experiments</li>
-        <li>Interactive 3D Experiences</li>
-        <li>Gameplay Mechanics</li>
-      </ul>
+
+    <td width="33.33%" valign="top">
+
+### ⚙️ IT Projects
+- Google Workspace Setup
+- ERP Workflow Improvements
+- Website Infrastructure
+- Database Management
+- Automation for Daily Operations
+
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>IT Projects</h3>
-      <ul>
-        <li>Google Workspace Setup</li>
-        <li>ERP Workflow Improvements</li>
-        <li>Website Infrastructure</li>
-        <li>Database Management</li>
-        <li>Automation for Daily Operations</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3></h3>
-      <p></p>
+
+    <td width="33.33%" valign="top">
+
+### 🚀 Innovation Projects
+- Digital Infrastructure
+- Creative Engineering
+- Content Systems
+- Productivity Pipelines
+- Interactive Automation
+
     </td>
   </tr>
 </table>
