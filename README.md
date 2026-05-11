@@ -210,7 +210,9 @@ A fusion of creativity, technology, AI, and systems to build impactful digital e
         <li>Automation for Daily Operations</li>
       </ul>
     </td>
-    
+    <td width="50%" valign="top">
+     
+    </td>
   </tr>
 </table>
 
