@@ -4,19 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creative+Technologist;AI+%26+Automation+Specialist;Game+Developer+%7C+Unity+Creator;UI%2FUX+Designer+%26+Brand+Visualizer;ICT+Engineer+%26+Digital+Innovator;Motion+Designer+%7C+Web+Developer;ERP+%7C+Systems+%7C+Creative+Engineering" alt="Typing SVG" />
 
----
-
-## 📍 Current Location
-
-<div align="center">
-
-🌍 **Riyadh, Kingdom of Saudi Arabia**
-
-<img src="https://img.shields.io/badge/Based_in-Riyadh_Saudi_Arabia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-</div>
-
----
 
 <br>
 
